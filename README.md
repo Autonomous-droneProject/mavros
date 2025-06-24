@@ -1,5 +1,27 @@
 MAVROS
 ======
+
+New Additions for Kestrel
+-------------------------
+
+This includes a setup script (setup.sh). Simply use the following command to run it alongside it cloning the repo for you (using either https cloning or ssh)
+
+```
+# ssh
+git clone git@github.com:Quil180/mavros-kestrel.git
+cd mavros-kestrel
+./setup.sh
+```
+```
+# https
+git clone https://github.com/Quil180/mavros-kestrel.git
+cd mavros-kestrel
+./setup.sh
+```
+
+Rest of README.md
+-----------------
+
 [![GitHub release (latest by date)](https://img.shields.io/github/v/release/mavlink/mavros)](https://github.com/mavlink/mavros/releases)  [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/mavlink/mavros?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)  [![CI](https://github.com/mavlink/mavros/actions/workflows/main.yml/badge.svg)](https://github.com/mavlink/mavros/actions/workflows/main.yml)
 
 MAVLink extendable communication node for ROS.
