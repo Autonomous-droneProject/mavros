@@ -8,13 +8,13 @@ This includes a setup script (setup.sh). Simply use the following command to run
 
 ```
 # ssh
-git clone git@github.com:Quil180/mavros-kestrel.git
+git clone git@github.com:Autonomous-droneProject/mavros.git
 cd mavros-kestrel
 ./setup.sh
 ```
 ```
 # https
-git clone https://github.com/Quil180/mavros-kestrel.git
+git clone https://github.com/Autonomous-droneProject/mavros-kestrel.git
 cd mavros-kestrel
 ./setup.sh
 ```
