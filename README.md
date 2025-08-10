@@ -14,7 +14,7 @@ cd mavros-kestrel
 ```
 ```
 # https
-git clone https://github.com/Autonomous-droneProject/mavros-kestrel.git
+git clone https://github.com/Autonomous-droneProject/mavros.git
 cd mavros-kestrel
 ./setup.sh
 ```
